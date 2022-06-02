@@ -1,10 +1,22 @@
-### Olá eu sou Adson Santos 😁
+# Olá eu sou Adson Santos 😁
 
 - 😍 Apaixonado por UI/UX Designer 
 - ⚛️ Atualmente estudando React
 - 👀 De olho no Redux e Vue.js (Próximos Cursos)
-- 👨‍🎓 Certificados: HTML e CSS para Iniciantes, Web Design Completo, CSS Grid Layout, CSS Flexbox, CSS com SASS, Bootstrap 4, UI Design para iniciantes, UI Design Avançado, JavaScript Completo ES6.
 - 👨‍💻 Futuro Fullstark 🖥️📱
+### 👨‍🎓 Certificados: 
+- <a href="https://www.origamid.com/certificate/fde44b77/" target="_blank">HTML e CSS para Iniciantes</a>
+- <a href="https://www.origamid.com/certificate/14737dda/" target="_blank">Web Design Completo</a>
+- <a href="https://www.origamid.com/certificate/1a2ebc60/" target="_blank">CSS Grid Layout</a>
+- <a href="https://www.origamid.com/certificate/9b11990d/" target="_blank">CSS Flexbox</a>
+- <a href="https://www.origamid.com/certificate/b60b6052/" target="_blank">CSS com SASS</a>
+- <a href="https://www.origamid.com/certificate/2622684e/" target="_blank">Bootstrap 4</a>
+- <a href="https://www.origamid.com/certificate/00a9455f/" target="_blank">UI Design para iniciantes</a> 
+- <a href="https://www.origamid.com/certificate/b03d6b34/" target="_blank">UI Design Avançado</a> 
+- <a href="https://www.origamid.com/certificate/3850eb88/" target="_blank">JavaScript Completo ES6</a>
+
+
+##
 
 <div align="center">
   <a href="https://github.com/adsonsandias">
@@ -25,7 +37,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Woodpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
-  <img align="right" alt="Homer" height="150" style="border-radius:50px; transform: " src="https://img.icons8.com/stickers/200/undefined/homer-simpson.png">
+  <img align="right" alt="Homer" height="150" style="border-radius:50px; transform: " src="https://img.icons8.com/color/240/undefined/github-2.png">
 </div>
   
 ##
