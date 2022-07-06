@@ -1,8 +1,8 @@
 # Olá eu sou Adson Santos 😁
 
 - 😍 Apaixonado por UI/UX Designer 
-- ⚛️ Atualmente estudando React
-- 👀 De olho no Redux e Vue.js (Próximos Cursos)
+- ⚛️ Atualmente estudando Redux com React
+- 👀 De olho no Vue.js (Próximos Cursos)
 - 👨‍💻 Futuro Fullstark 🖥️📱
 ### 👨‍🎓 Certificados: 
 - <a href="https://www.origamid.com/certificate/fde44b77/" target="_blank">HTML e CSS para Iniciantes</a>
@@ -14,6 +14,10 @@
 - <a href="https://www.origamid.com/certificate/00a9455f/" target="_blank">UI Design para iniciantes</a> 
 - <a href="https://www.origamid.com/certificate/b03d6b34/" target="_blank">UI Design Avançado</a> 
 - <a href="https://www.origamid.com/certificate/3850eb88/" target="_blank">JavaScript Completo ES6</a>
+- <a href="https://www.origamid.com/certificate/2b3ae3a5/" target="_blank">React Completo</a>
+- <a href="https://www.origamid.com/certificate/b6aa909b/" target="_blank">WordPress Como CMS</a>
+- <a href="https://www.origamid.com/certificate/0b413b11/" target="_blank">WordPress REST API</a>
+- <a href="https://www.origamid.com/certificate/5fcaafcb/" target="_blank">WordPress REST API Dogs</a>
 
 
 ##
