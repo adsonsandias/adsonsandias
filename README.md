@@ -44,10 +44,10 @@
   <img align="center"  alt="eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
   <img align="center"  alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center"  alt="Woodpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-  <img align="right"   alt="Homer" height="150" style="border-radius:50px; transform: " src="https://img.icons8.com/color/240/undefined/github-2.png">
   <img align="center"  alt="Figna" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center"  alt="Adobe-XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
   <img align="center"  alt="Adobe-AF" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+  <img align="right"   alt="Homer" height="150" style="border-radius:50px; transform: " src="https://img.icons8.com/color/240/undefined/github-2.png">
 </div>
   
 ##
