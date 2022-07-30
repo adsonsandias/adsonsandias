@@ -1,9 +1,13 @@
-# Olá eu sou Adson Santos 😁
+# Hi I'm Adson Santos 😁
 
-- 😍 Apaixonado por UI/UX Designer 
-- ⚛️ Atualmente estudando TypeScript
-- 👀 De olho no Vue.js (Próximos Cursos)
-- 👨‍💻 Futuro Fullstark 🖥️📱
+- 😍 In love with UI/UX Designer 
+- ⚛️ Currently studying TypeScript
+- 👀 keeping an eye on Vue.js (Upcoming Courses)
+- 👨‍💻 Front End Developer 🖥️📱
+
+## Most current project :pinched_fingers:
+- <a href="https://github.com/adsonsandias/Finance-Control">Finance Control</a>
+
 ### 👨‍🎓 Certificados: 
 - <a href="https://www.origamid.com/certificate/fde44b77/" target="_blank">HTML e CSS para Iniciantes</a>
 - <a href="https://www.origamid.com/certificate/14737dda/" target="_blank">Web Design Completo</a>
