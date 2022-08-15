@@ -1,9 +1,6 @@
 # Hi I'm Adson Santos 😁
 
 - 😍 In love with UI/UX Designer 
-- ⚛️ Currently studying TypeScript
-- 👀 keeping an eye on Vue.js (Upcoming Courses)
-- 👨‍💻 Front End Developer 🖥️📱
 
 ## Most current project :pinched_fingers:
 - <a href="https://github.com/adsonsandias/Finance-Control">Finance Control</a>
