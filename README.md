@@ -1,26 +1,11 @@
 # Hi I'm Adson Santos 😁
 
-- 😍 In love with UI/UX Designer 
+### Hello, welcome to my profile, I am a front-end developer who seeks to grow and improve every day.
+
+### 😍 In love with UI/UX Designer 
 
 ## Most current project :pinched_fingers:
 - <a href="https://github.com/adsonsandias/Finance-Control">Finance Control</a>
-
-### 👨‍🎓 Certificados: 
-- <a href="https://www.origamid.com/certificate/fde44b77/" target="_blank">HTML e CSS para Iniciantes</a>
-- <a href="https://www.origamid.com/certificate/14737dda/" target="_blank">Web Design Completo</a>
-- <a href="https://www.origamid.com/certificate/1a2ebc60/" target="_blank">CSS Grid Layout</a>
-- <a href="https://www.origamid.com/certificate/9b11990d/" target="_blank">CSS Flexbox</a>
-- <a href="https://www.origamid.com/certificate/b60b6052/" target="_blank">CSS com SASS</a>
-- <a href="https://www.origamid.com/certificate/2622684e/" target="_blank">Bootstrap 4</a>
-- <a href="https://www.origamid.com/certificate/00a9455f/" target="_blank">UI Design para iniciantes</a> 
-- <a href="https://www.origamid.com/certificate/b03d6b34/" target="_blank">UI Design Avançado</a> 
-- <a href="https://www.origamid.com/certificate/3850eb88/" target="_blank">JavaScript Completo ES6</a>
-- <a href="https://www.origamid.com/certificate/2b3ae3a5/" target="_blank">React Completo</a>
-- <a href="https://www.origamid.com/certificate/b6aa909b/" target="_blank">WordPress Como CMS</a>
-- <a href="https://www.origamid.com/certificate/0b413b11/" target="_blank">WordPress REST API</a>
-- <a href="https://www.origamid.com/certificate/5fcaafcb/" target="_blank">WordPress REST API Dogs</a>
-- <a href="https://www.origamid.com/certificate/70dd1348/" target="_blank">Redux com React</a>
-
 
 ##
 
