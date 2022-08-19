@@ -1,7 +1,6 @@
 # Hi I'm Adson Santos 😁
 
-### Hello, welcome to my profile, I am a front-end developer who seeks to grow and improve every day.
-
+## 👋  Hello, welcome to my profile, I am a front-end developer who seeks to grow and improve every day.
 ### 😍 In love with UI/UX Designer 
 
 ## Most current project :pinched_fingers:
